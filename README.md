@@ -4,11 +4,11 @@ Simple mobile application that allows users to accurately compute artillery solu
 A heavily modified version of [earthgrazer's foxhole artillery calculator](https://github.com/earthgrazer/foxhole-artillery-calc).
 
 # Installation
-1. Download or send .apk to android device
-2. Install & enjoy
+1. Download or send .apk to android device.
+2. Install & enjoy.
 
 # Usage
-- You will require binoculars (an in-game item) to effectively use this calculator
+- You will require binoculars (an in-game item) to effectively use this calculator.
 
 1. Spotter determines the distance & azimuth to the target. Input this distance & azimuth into the calculator.
 
